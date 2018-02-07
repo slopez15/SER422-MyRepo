@@ -1,0 +1,639 @@
+[Thu Jan 04 19:03:03.344843 2018] [mpm_winnt:notice] [pid 7848:tid 396] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Thu Jan 04 19:03:03.344843 2018] [mpm_winnt:notice] [pid 7848:tid 396] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Thu Jan 04 19:03:03.344843 2018] [core:notice] [pid 7848:tid 396] AH00094: Command line: '.\\httpd.exe -d C:/Apache24'
+[Thu Jan 04 19:03:03.345843 2018] [mpm_winnt:notice] [pid 7848:tid 396] AH00418: Parent: Created child process 6400
+Apache server interrupted...
+018] [mpm_winnt:notice] [pid 6400:tid 412] AH00354: Child: Starting 64 worker threads.
+[Thu Jan 04 19:03:40.187527 2018] [mpm_winnt:notice] [pid 7848:tid 396] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server shutdown initiated...
+[Thu Jan 04 19:04:12.392747 2018] [mpm_winnt:notice] [pid 6400:tid 412] AH00362: Child: Waiting 30 more seconds for 1 worker threads to finish.
+[Thu Jan 04 19:04:13.400848 2018] [mpm_winnt:notice] [pid 6400:tid 412] AH00364: Child: All worker threads have exited.
+[Thu Jan 04 19:17:26.107111 2018] [core:warn] [pid 9204:tid 384] AH00098: pid file C:/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 04 19:17:26.112111 2018] [mpm_winnt:notice] [pid 9204:tid 384] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Thu Jan 04 19:17:26.112111 2018] [mpm_winnt:notice] [pid 9204:tid 384] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Thu Jan 04 19:17:26.112111 2018] [core:notice] [pid 9204:tid 384] AH00094: Command line: 'httpd.exe -d C:/Apache24'
+[Thu Jan 04 19:17:26.113111 2018] [mpm_winnt:notice] [pid 9204:tid 384] AH00418: Parent: Created child process 7368
+Apache server interrupted...
+018] [mpm_winnt:notice] [pid 7368:tid 412] AH00354: Child: Starting 64 worker threads.
+[Thu Jan 04 19:28:34.250918 2018] [mpm_winnt:notice] [pid 9204:tid 384] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+[Thu Jan 04 19:28:36.259119 2018] [mpm_winnt:notice] [pid 7368:tid 412] AH00364: Child: All worker threads have exited.
+[Thu Jan 04 19:28:36.332127 2018] [mpm_winnt:notice] [pid 9204:tid 384] AH00430: Parent: Child process 7368 exited successfully.
+[Thu Jan 04 19:30:37.366229 2018] [heartmonitor:crit] [pid 6560:tid 376] AH02093: mod_watchdog is required
+AH00016: Configuration Failed
+[Thu Jan 04 19:30:40.227515 2018] [heartmonitor:crit] [pid 8496:tid 376] AH02093: mod_watchdog is required
+AH00016: Configuration Failed
+[Thu Jan 04 19:31:38.029294 2018] [lbmethod_heartbeat:notice] [pid 9964:tid 392] AH02281: Failed to lookup provider 'shm' for 'slotmem'. Maybe you need to load mod_slotmem_shm?
+[Thu Jan 04 19:31:38.030295 2018] [proxy_balancer:emerg] [pid 9964:tid 392] AH01177: Failed to lookup provider 'shm' for 'slotmem': is mod_slotmem_shm loaded??
+[Thu Jan 04 19:31:38.030295 2018] [:emerg] [pid 9964:tid 392] AH00020: Configuration Failed, exiting
+[Thu Jan 04 19:32:22.533744 2018] [core:warn] [pid 8896:tid 384] AH00098: pid file C:/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 04 19:32:22.537745 2018] [proxy_balancer:emerg] [pid 8896:tid 384] AH01177: Failed to lookup provider 'shm' for 'slotmem': is mod_slotmem_shm loaded??
+[Thu Jan 04 19:32:22.537745 2018] [:emerg] [pid 8896:tid 384] AH00020: Configuration Failed, exiting
+[Thu Jan 04 19:33:29.604451 2018] [core:warn] [pid 8212:tid 384] AH00098: pid file C:/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 04 19:33:29.609451 2018] [proxy_balancer:emerg] [pid 8212:tid 384] AH01177: Failed to lookup provider 'shm' for 'slotmem': is mod_slotmem_shm loaded??
+[Thu Jan 04 19:33:29.609451 2018] [:emerg] [pid 8212:tid 384] AH00020: Configuration Failed, exiting
+[Thu Jan 04 19:34:03.243814 2018] [core:warn] [pid 5672:tid 384] AH00098: pid file C:/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 04 19:34:03.250815 2018] [mpm_winnt:notice] [pid 5672:tid 384] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Thu Jan 04 19:34:03.250815 2018] [mpm_winnt:notice] [pid 5672:tid 384] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Thu Jan 04 19:34:03.250815 2018] [core:notice] [pid 5672:tid 384] AH00094: Command line: 'httpd.exe -d C:/Apache24'
+[Thu Jan 04 19:34:03.251815 2018] [mpm_winnt:notice] [pid 5672:tid 384] AH00418: Parent: Created child process 9656
+Apache server interrupted...
+018] [mpm_winnt:notice] [pid 9656:tid 452] AH00354: Child: Starting 64 worker threads.
+[Thu Jan 04 19:37:22.223710 2018] [mpm_winnt:notice] [pid 5672:tid 384] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jan 04 19:37:24.223910 2018] [mpm_winnt:notice] [pid 9656:tid 452] AH00364: Child: All worker threads have exited.
+[Thu Jan 04 19:37:24.244913 2018] [mpm_winnt:notice] [pid 5672:tid 384] AH00430: Parent: Child process 9656 exited successfully.
+[Thu Jan 04 19:47:54.789961 2018] [mpm_winnt:notice] [pid 10924:tid 432] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Thu Jan 04 19:47:54.790961 2018] [mpm_winnt:notice] [pid 10924:tid 432] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Thu Jan 04 19:47:54.790961 2018] [core:notice] [pid 10924:tid 432] AH00094: Command line: 'httpd.exe -d C:/Apache24'
+[Thu Jan 04 19:47:54.791961 2018] [mpm_winnt:notice] [pid 10924:tid 432] AH00418: Parent: Created child process 8552
+Apache server interrupted...
+018] [mpm_winnt:notice] [pid 8552:tid 452] AH00354: Child: Starting 64 worker threads.
+[Thu Jan 04 20:13:03.493816 2018] [mpm_winnt:notice] [pid 10924:tid 432] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Thu Jan 04 20:13:05.496016 2018] [mpm_winnt:notice] [pid 8552:tid 452] AH00364: Child: All worker threads have exited.
+[Thu Jan 04 20:13:05.523019 2018] [mpm_winnt:notice] [pid 10924:tid 432] AH00430: Parent: Child process 8552 exited successfully.
+[Sat Jan 06 16:46:15.633771 2018] [mpm_winnt:notice] [pid 7236:tid 744] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Sat Jan 06 16:46:15.633771 2018] [mpm_winnt:notice] [pid 7236:tid 744] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Sat Jan 06 16:46:15.633771 2018] [core:notice] [pid 7236:tid 744] AH00094: Command line: 'bin\\httpd.exe -d D:/Apache24'
+[Sat Jan 06 16:46:15.638774 2018] [mpm_winnt:notice] [pid 7236:tid 744] AH00418: Parent: Created child process 4216
+Apache server interrupted...
+018] [mpm_winnt:notice] [pid 4216:tid 660] AH00354: Child: Starting 64 worker threads.
+[Sat Jan 06 16:46:38.741962 2018] [proxy:error] [pid 4216:tid 1208] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8080 (localhost) failed
+[Sat Jan 06 16:46:38.743823 2018] [proxy:error] [pid 4216:tid 1208] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Sat Jan 06 16:46:38.743823 2018] [proxy_http:error] [pid 4216:tid 1208] [client ::1:65076] AH01114: HTTP: failed to make connection to backend: localhost
+[Sat Jan 06 16:46:40.747355 2018] [proxy:error] [pid 4216:tid 1208] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8081 (localhost) failed
+[Sat Jan 06 16:46:40.747355 2018] [proxy:error] [pid 4216:tid 1208] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Sat Jan 06 16:46:40.747355 2018] [proxy_http:error] [pid 4216:tid 1208] [client ::1:65076] AH01114: HTTP: failed to make connection to backend: localhost
+[Sat Jan 06 16:46:42.811594 2018] [proxy:error] [pid 4216:tid 1192] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8081 (localhost) failed
+[Sat Jan 06 16:46:42.811594 2018] [proxy:error] [pid 4216:tid 1192] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Sat Jan 06 16:46:42.811594 2018] [proxy_http:error] [pid 4216:tid 1192] [client ::1:65077] AH01114: HTTP: failed to make connection to backend: localhost, referer: http://localhost:8000/
+[Sat Jan 06 16:46:44.818123 2018] [proxy:error] [pid 4216:tid 1192] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8080 (localhost) failed
+[Sat Jan 06 16:46:44.818123 2018] [proxy:error] [pid 4216:tid 1192] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Sat Jan 06 16:46:44.818123 2018] [proxy_http:error] [pid 4216:tid 1192] [client ::1:65077] AH01114: HTTP: failed to make connection to backend: localhost, referer: http://localhost:8000/
+[Sat Jan 06 16:46:48.326587 2018] [mpm_winnt:notice] [pid 7236:tid 744] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+[Sat Jan 06 16:46:50.333604 2018] [mpm_winnt:notice] [pid 4216:tid 660] AH00364: Child: All worker threads have exited.
+[Sat Jan 06 16:46:50.399253 2018] [mpm_winnt:notice] [pid 7236:tid 744] AH00430: Parent: Child process 4216 exited successfully.
+[Sat Jan 06 16:50:28.502953 2018] [mpm_winnt:notice] [pid 7796:tid 872] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Sat Jan 06 16:50:28.507998 2018] [mpm_winnt:notice] [pid 7796:tid 872] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Sat Jan 06 16:50:28.507998 2018] [core:notice] [pid 7796:tid 872] AH00094: Command line: '.\\bin\\httpd.exe -d D:/Apache24'
+[Sat Jan 06 16:50:28.512965 2018] [mpm_winnt:notice] [pid 7796:tid 872] AH00418: Parent: Created child process 1728
+Apache server interrupted...
+018] [mpm_winnt:notice] [pid 1728:tid 652] AH00354: Child: Starting 64 worker threads.
+[Sat Jan 06 16:51:07.411073 2018] [mpm_winnt:notice] [pid 7796:tid 872] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+[Sat Jan 06 16:51:09.419813 2018] [mpm_winnt:notice] [pid 1728:tid 652] AH00364: Child: All worker threads have exited.
+[Sat Jan 06 16:51:09.855962 2018] [mpm_winnt:notice] [pid 7796:tid 872] AH00430: Parent: Child process 1728 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::714b:c727:3ad5:513. Set the 'ServerName' directive globally to suppress this message
+[Sat Jan 06 17:22:20.595720 2018] [mpm_winnt:notice] [pid 13876:tid 756] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Sat Jan 06 17:22:20.597721 2018] [mpm_winnt:notice] [pid 13876:tid 756] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Sat Jan 06 17:22:20.597721 2018] [core:notice] [pid 13876:tid 756] AH00094: Command line: '.\\bin\\httpd.exe -d D:/Apache24'
+[Sat Jan 06 17:22:20.608784 2018] [mpm_winnt:notice] [pid 13876:tid 756] AH00418: Parent: Created child process 12720
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::714b:c727:3ad5:513. Set the 'ServerName' directive globally to suppress this message
+Apache server interrupted...
+ reliably determine the server's fully qualified domain name, using fe80::714b:c727:3ad5:513. Set the 'ServerName' directive globally to suppress this message
+[Sat Jan 06 17:22:23.249314 2018] [mpm_winnt:notice] [pid 12720:tid 772] AH00354: Child: Starting 64 worker threads.
+[Sat Jan 06 17:27:27.972623 2018] [mpm_winnt:notice] [pid 13876:tid 756] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jan 06 17:27:29.994572 2018] [mpm_winnt:notice] [pid 12720:tid 772] AH00364: Child: All worker threads have exited.
+[Sat Jan 06 17:27:30.072683 2018] [mpm_winnt:notice] [pid 13876:tid 756] AH00430: Parent: Child process 12720 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::9462:2ac:556e:946f. Set the 'ServerName' directive globally to suppress this message
+[Mon Jan 29 12:55:28.265355 2018] [mpm_winnt:notice] [pid 12584:tid 772] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Mon Jan 29 12:55:28.265355 2018] [mpm_winnt:notice] [pid 12584:tid 772] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Mon Jan 29 12:55:28.265355 2018] [core:notice] [pid 12584:tid 772] AH00094: Command line: 'httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Mon Jan 29 12:55:28.333543 2018] [mpm_winnt:notice] [pid 12584:tid 772] AH00418: Parent: Created child process 13064
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::9462:2ac:556e:946f. Set the 'ServerName' directive globally to suppress this message
+Apache server interrupted...
+ reliably determine the server's fully qualified domain name, using fe80::9462:2ac:556e:946f. Set the 'ServerName' directive globally to suppress this message
+[Mon Jan 29 12:55:28.749855 2018] [mpm_winnt:notice] [pid 13064:tid 788] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 29 12:55:55.824602 2018] [proxy:error] [pid 13064:tid 1320] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8080 (localhost) failed
+[Mon Jan 29 12:55:55.824602 2018] [proxy:error] [pid 13064:tid 1320] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 12:55:55.824602 2018] [proxy_http:error] [pid 13064:tid 1320] [client ::1:52019] AH01114: HTTP: failed to make connection to backend: localhost
+[Mon Jan 29 12:55:57.827966 2018] [proxy:error] [pid 13064:tid 1320] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8081 (localhost) failed
+[Mon Jan 29 12:55:57.827966 2018] [proxy:error] [pid 13064:tid 1320] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 12:55:57.827966 2018] [proxy_http:error] [pid 13064:tid 1320] [client ::1:52019] AH01114: HTTP: failed to make connection to backend: localhost
+[Mon Jan 29 12:56:00.301645 2018] [proxy:error] [pid 13064:tid 1308] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8080 (localhost) failed
+[Mon Jan 29 12:56:00.301645 2018] [proxy:error] [pid 13064:tid 1308] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 12:56:00.301645 2018] [proxy_http:error] [pid 13064:tid 1308] [client ::1:52020] AH01114: HTTP: failed to make connection to backend: localhost, referer: http://localhost:8000/
+[Mon Jan 29 12:56:02.323201 2018] [proxy:error] [pid 13064:tid 1308] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8081 (localhost) failed
+[Mon Jan 29 12:56:02.323201 2018] [proxy:error] [pid 13064:tid 1308] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 12:56:02.323201 2018] [proxy_http:error] [pid 13064:tid 1308] [client ::1:52020] AH01114: HTTP: failed to make connection to backend: localhost, referer: http://localhost:8000/
+[Mon Jan 29 12:56:15.443967 2018] [proxy:error] [pid 13064:tid 1308] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8080 (localhost) failed
+[Mon Jan 29 12:56:15.443967 2018] [proxy:error] [pid 13064:tid 1308] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 12:56:15.443967 2018] [proxy_http:error] [pid 13064:tid 1308] [client ::1:52030] AH01114: HTTP: failed to make connection to backend: localhost
+[Mon Jan 29 12:56:17.445301 2018] [proxy:error] [pid 13064:tid 1308] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8081 (localhost) failed
+[Mon Jan 29 12:56:17.445301 2018] [proxy:error] [pid 13064:tid 1308] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 12:56:17.445301 2018] [proxy_http:error] [pid 13064:tid 1308] [client ::1:52030] AH01114: HTTP: failed to make connection to backend: localhost
+[Mon Jan 29 12:56:19.791598 2018] [proxy:error] [pid 13064:tid 1320] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8080 (localhost) failed
+[Mon Jan 29 12:56:19.791598 2018] [proxy:error] [pid 13064:tid 1320] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 12:56:19.791598 2018] [proxy_http:error] [pid 13064:tid 1320] [client ::1:52031] AH01114: HTTP: failed to make connection to backend: localhost, referer: http://localhost:8000/
+[Mon Jan 29 12:56:21.820465 2018] [proxy:error] [pid 13064:tid 1320] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8081 (localhost) failed
+[Mon Jan 29 12:56:21.820465 2018] [proxy:error] [pid 13064:tid 1320] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 12:56:21.820465 2018] [proxy_http:error] [pid 13064:tid 1320] [client ::1:52031] AH01114: HTTP: failed to make connection to backend: localhost, referer: http://localhost:8000/
+[Mon Jan 29 12:56:26.079673 2018] [proxy:error] [pid 13064:tid 1288] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8080 (localhost) failed
+[Mon Jan 29 12:56:26.079673 2018] [proxy:error] [pid 13064:tid 1288] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 12:56:26.079673 2018] [proxy_http:error] [pid 13064:tid 1288] [client ::1:52058] AH01114: HTTP: failed to make connection to backend: localhost, referer: http://localhost:8000/
+[Mon Jan 29 12:56:28.124191 2018] [proxy:error] [pid 13064:tid 1288] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8081 (localhost) failed
+[Mon Jan 29 12:56:28.124191 2018] [proxy:error] [pid 13064:tid 1288] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 12:56:28.124191 2018] [proxy_http:error] [pid 13064:tid 1288] [client ::1:52058] AH01114: HTTP: failed to make connection to backend: localhost, referer: http://localhost:8000/
+[Mon Jan 29 12:56:33.203409 2018] [mpm_winnt:notice] [pid 12584:tid 772] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Mon Jan 29 12:57:03.211253 2018] [mpm_winnt:notice] [pid 12584:tid 772] AH00431: Parent: Forcing termination of child process 13064
+[Mon Jan 29 12:59:48.520297 2018] [mpm_winnt:notice] [pid 10256:tid 636] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Mon Jan 29 12:59:48.520297 2018] [mpm_winnt:notice] [pid 10256:tid 636] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Mon Jan 29 12:59:48.520297 2018] [core:notice] [pid 10256:tid 636] AH00094: Command line: 'httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Mon Jan 29 12:59:48.567853 2018] [mpm_winnt:notice] [pid 10256:tid 636] AH00418: Parent: Created child process 7288
+Apache server interrupted...
+018] [mpm_winnt:notice] [pid 7288:tid 644] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 29 12:59:58.148003 2018] [proxy:error] [pid 7288:tid 1156] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8080 (localhost) failed
+[Mon Jan 29 12:59:58.148003 2018] [proxy:error] [pid 7288:tid 1156] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 12:59:58.148003 2018] [proxy_http:error] [pid 7288:tid 1156] [client ::1:52074] AH01114: HTTP: failed to make connection to backend: localhost
+[Mon Jan 29 13:00:00.150660 2018] [proxy:error] [pid 7288:tid 1156] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8081 (localhost) failed
+[Mon Jan 29 13:00:00.150660 2018] [proxy:error] [pid 7288:tid 1156] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 13:00:00.150660 2018] [proxy_http:error] [pid 7288:tid 1156] [client ::1:52074] AH01114: HTTP: failed to make connection to backend: localhost
+[Mon Jan 29 13:00:02.556498 2018] [proxy:error] [pid 7288:tid 1148] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8080 (localhost) failed
+[Mon Jan 29 13:00:02.556498 2018] [proxy:error] [pid 7288:tid 1148] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 13:00:02.556498 2018] [proxy_http:error] [pid 7288:tid 1148] [client ::1:52075] AH01114: HTTP: failed to make connection to backend: localhost, referer: http://localhost/
+[Mon Jan 29 13:00:04.068421 2018] [proxy:error] [pid 7288:tid 1156] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8080 (localhost) failed
+[Mon Jan 29 13:00:04.068421 2018] [proxy_http:error] [pid 7288:tid 1156] [client ::1:52082] AH01114: HTTP: failed to make connection to backend: localhost
+[Mon Jan 29 13:00:04.557675 2018] [proxy:error] [pid 7288:tid 1148] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8081 (localhost) failed
+[Mon Jan 29 13:00:04.557675 2018] [proxy:error] [pid 7288:tid 1148] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 13:00:04.557675 2018] [proxy_http:error] [pid 7288:tid 1148] [client ::1:52075] AH01114: HTTP: failed to make connection to backend: localhost, referer: http://localhost/
+[Mon Jan 29 13:00:06.070956 2018] [proxy:error] [pid 7288:tid 1156] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8081 (localhost) failed
+[Mon Jan 29 13:00:06.070956 2018] [proxy_http:error] [pid 7288:tid 1156] [client ::1:52082] AH01114: HTTP: failed to make connection to backend: localhost
+[Mon Jan 29 13:00:08.376497 2018] [proxy:error] [pid 7288:tid 1140] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8080 (localhost) failed
+[Mon Jan 29 13:00:08.376497 2018] [proxy:error] [pid 7288:tid 1140] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 13:00:08.376497 2018] [proxy_http:error] [pid 7288:tid 1140] [client ::1:52083] AH01114: HTTP: failed to make connection to backend: localhost, referer: http://localhost/
+[Mon Jan 29 13:00:09.436862 2018] [mpm_winnt:notice] [pid 10256:tid 636] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Mon Jan 29 13:00:36.958917 2018] [mpm_winnt:notice] [pid 7288:tid 644] AH00364: Child: All worker threads have exited.
+[Mon Jan 29 13:00:37.004666 2018] [mpm_winnt:notice] [pid 10256:tid 636] AH00430: Parent: Child process 7288 exited successfully.
+[Mon Jan 29 13:00:46.044595 2018] [mpm_winnt:notice] [pid 14300:tid 616] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Mon Jan 29 13:00:46.045595 2018] [mpm_winnt:notice] [pid 14300:tid 616] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Mon Jan 29 13:00:46.045595 2018] [core:notice] [pid 14300:tid 616] AH00094: Command line: 'httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Mon Jan 29 13:00:46.109264 2018] [mpm_winnt:notice] [pid 14300:tid 616] AH00418: Parent: Created child process 10284
+Apache server interrupted...
+018] [mpm_winnt:notice] [pid 10284:tid 640] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 29 13:00:48.577962 2018] [proxy:error] [pid 10284:tid 1120] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8080 (localhost) failed
+[Mon Jan 29 13:00:48.577962 2018] [proxy:error] [pid 10284:tid 1120] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 13:00:48.577962 2018] [proxy_http:error] [pid 10284:tid 1120] [client 127.0.0.1:52123] AH01114: HTTP: failed to make connection to backend: localhost
+[Mon Jan 29 13:00:50.260088 2018] [proxy:error] [pid 10284:tid 1116] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8080 (localhost) failed
+[Mon Jan 29 13:00:50.260088 2018] [proxy_http:error] [pid 10284:tid 1116] [client ::1:52124] AH01114: HTTP: failed to make connection to backend: localhost
+[Mon Jan 29 13:00:50.582577 2018] [proxy:error] [pid 10284:tid 1120] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8081 (localhost) failed
+[Mon Jan 29 13:00:50.582577 2018] [proxy:error] [pid 10284:tid 1120] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 13:00:50.582577 2018] [proxy_http:error] [pid 10284:tid 1120] [client 127.0.0.1:52123] AH01114: HTTP: failed to make connection to backend: localhost
+[Mon Jan 29 13:00:52.263389 2018] [proxy:error] [pid 10284:tid 1116] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8081 (localhost) failed
+[Mon Jan 29 13:00:52.263389 2018] [proxy_http:error] [pid 10284:tid 1116] [client ::1:52124] AH01114: HTTP: failed to make connection to backend: localhost
+[Mon Jan 29 13:00:54.640610 2018] [proxy:error] [pid 10284:tid 1108] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8080 (localhost) failed
+[Mon Jan 29 13:00:54.640610 2018] [proxy:error] [pid 10284:tid 1108] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 13:00:54.640610 2018] [proxy_http:error] [pid 10284:tid 1108] [client ::1:52125] AH01114: HTTP: failed to make connection to backend: localhost, referer: http://localhost/
+[Mon Jan 29 13:00:56.673846 2018] [proxy:error] [pid 10284:tid 1108] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8081 (localhost) failed
+[Mon Jan 29 13:00:56.673846 2018] [proxy:error] [pid 10284:tid 1108] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 13:00:56.673846 2018] [proxy_http:error] [pid 10284:tid 1108] [client ::1:52125] AH01114: HTTP: failed to make connection to backend: localhost, referer: http://localhost/
+[Mon Jan 29 13:02:19.628246 2018] [mpm_winnt:notice] [pid 14300:tid 616] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+[Mon Jan 29 13:02:21.647503 2018] [mpm_winnt:notice] [pid 10284:tid 640] AH00364: Child: All worker threads have exited.
+[Mon Jan 29 13:02:21.678702 2018] [mpm_winnt:notice] [pid 14300:tid 616] AH00430: Parent: Child process 10284 exited successfully.
+[Mon Jan 29 13:02:30.266907 2018] [mpm_winnt:notice] [pid 2056:tid 124] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Mon Jan 29 13:02:30.267908 2018] [mpm_winnt:notice] [pid 2056:tid 124] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Mon Jan 29 13:02:30.267908 2018] [core:notice] [pid 2056:tid 124] AH00094: Command line: 'bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Mon Jan 29 13:02:30.325079 2018] [mpm_winnt:notice] [pid 2056:tid 124] AH00418: Parent: Created child process 5912
+Apache server interrupted...
+018] [mpm_winnt:notice] [pid 5912:tid 628] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 29 13:02:56.561787 2018] [proxy:error] [pid 5912:tid 1104] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8080 (localhost) failed
+[Mon Jan 29 13:02:56.561787 2018] [proxy:error] [pid 5912:tid 1104] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 13:02:56.561787 2018] [proxy_http:error] [pid 5912:tid 1104] [client ::1:52196] AH01114: HTTP: failed to make connection to backend: localhost
+[Mon Jan 29 13:02:58.564537 2018] [proxy:error] [pid 5912:tid 1104] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8081 (localhost) failed
+[Mon Jan 29 13:02:58.564537 2018] [proxy:error] [pid 5912:tid 1104] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 13:02:58.564537 2018] [proxy_http:error] [pid 5912:tid 1104] [client ::1:52196] AH01114: HTTP: failed to make connection to backend: localhost
+[Mon Jan 29 13:03:40.409775 2018] [mpm_winnt:notice] [pid 2056:tid 124] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+[Mon Jan 29 13:03:42.438932 2018] [mpm_winnt:notice] [pid 5912:tid 628] AH00364: Child: All worker threads have exited.
+[Mon Jan 29 13:03:42.465913 2018] [mpm_winnt:notice] [pid 2056:tid 124] AH00430: Parent: Child process 5912 exited successfully.
+[Mon Jan 29 13:03:54.810549 2018] [mpm_winnt:notice] [pid 13852:tid 588] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Mon Jan 29 13:03:54.810549 2018] [mpm_winnt:notice] [pid 13852:tid 588] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Mon Jan 29 13:03:54.810549 2018] [core:notice] [pid 13852:tid 588] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Mon Jan 29 13:03:54.857479 2018] [mpm_winnt:notice] [pid 13852:tid 588] AH00418: Parent: Created child process 2332
+Apache server interrupted...
+018] [mpm_winnt:notice] [pid 2332:tid 616] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 29 13:04:13.059353 2018] [mpm_winnt:notice] [pid 13852:tid 588] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Mon Jan 29 13:04:43.075156 2018] [mpm_winnt:notice] [pid 13852:tid 588] AH00431: Parent: Forcing termination of child process 2332
+[Mon Jan 29 13:05:18.597404 2018] [mpm_winnt:notice] [pid 7468:tid 604] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Mon Jan 29 13:05:18.597404 2018] [mpm_winnt:notice] [pid 7468:tid 604] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Mon Jan 29 13:05:18.597404 2018] [core:notice] [pid 7468:tid 604] AH00094: Command line: 'Documents\\Hw\\Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Mon Jan 29 13:05:18.628706 2018] [mpm_winnt:notice] [pid 7468:tid 604] AH00418: Parent: Created child process 6044
+Apache server interrupted...
+018] [mpm_winnt:notice] [pid 6044:tid 600] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 29 13:06:22.386741 2018] [mpm_winnt:notice] [pid 7468:tid 604] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Mon Jan 29 13:06:24.412717 2018] [mpm_winnt:notice] [pid 6044:tid 600] AH00364: Child: All worker threads have exited.
+[Mon Jan 29 13:06:24.434351 2018] [mpm_winnt:notice] [pid 7468:tid 604] AH00430: Parent: Child process 6044 exited successfully.
+[Mon Jan 29 19:30:21.204030 2018] [mpm_winnt:notice] [pid 14624:tid 136] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Mon Jan 29 19:30:21.228030 2018] [mpm_winnt:notice] [pid 14624:tid 136] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Mon Jan 29 19:30:21.228030 2018] [core:notice] [pid 14624:tid 136] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Mon Jan 29 19:30:21.296035 2018] [mpm_winnt:notice] [pid 14624:tid 136] AH00418: Parent: Created child process 13600
+Apache server interrupted...
+018] [mpm_winnt:notice] [pid 13600:tid 648] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 29 19:34:15.271045 2018] [mpm_winnt:notice] [pid 14624:tid 136] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+[Mon Jan 29 19:34:17.300586 2018] [mpm_winnt:notice] [pid 13600:tid 648] AH00364: Child: All worker threads have exited.
+[Mon Jan 29 19:34:17.386922 2018] [mpm_winnt:notice] [pid 14624:tid 136] AH00430: Parent: Child process 13600 exited successfully.
+[Mon Jan 29 19:34:20.288752 2018] [mpm_winnt:notice] [pid 4448:tid 628] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Mon Jan 29 19:34:20.288752 2018] [mpm_winnt:notice] [pid 4448:tid 628] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Mon Jan 29 19:34:20.288752 2018] [core:notice] [pid 4448:tid 628] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Mon Jan 29 19:34:20.382504 2018] [mpm_winnt:notice] [pid 4448:tid 628] AH00418: Parent: Created child process 5704
+Apache server interrupted...
+018] [mpm_winnt:notice] [pid 5704:tid 624] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 29 19:58:40.912619 2018] [proxy:error] [pid 5704:tid 1160] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8080 (localhost) failed
+[Mon Jan 29 19:58:40.912619 2018] [proxy:error] [pid 5704:tid 1160] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 19:58:40.912619 2018] [proxy_http:error] [pid 5704:tid 1160] [client ::1:54548] AH01114: HTTP: failed to make connection to backend: localhost
+[Mon Jan 29 19:58:42.919371 2018] [proxy:error] [pid 5704:tid 1160] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8081 (localhost) failed
+[Mon Jan 29 19:58:42.919371 2018] [proxy:error] [pid 5704:tid 1160] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 19:58:42.919371 2018] [proxy_http:error] [pid 5704:tid 1160] [client ::1:54548] AH01114: HTTP: failed to make connection to backend: localhost
+[Mon Jan 29 19:58:52.902179 2018] [mpm_winnt:notice] [pid 4448:tid 628] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+018] [mpm_winnt:notice] [pid 5704:tid 624] AH00364: Child: All worker threads have exited.
+[Mon Jan 29 19:58:54.946505 2018] [mpm_winnt:notice] [pid 4448:tid 628] AH00430: Parent: Child process 5704 exited successfully.
+[Mon Jan 29 19:59:34.996568 2018] [mpm_winnt:notice] [pid 8156:tid 608] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Mon Jan 29 19:59:34.996568 2018] [mpm_winnt:notice] [pid 8156:tid 608] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Mon Jan 29 19:59:34.996568 2018] [core:notice] [pid 8156:tid 608] AH00094: Command line: 'C:\\Users\\Sandra\\Documents\\hw\\Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Mon Jan 29 19:59:35.043444 2018] [mpm_winnt:notice] [pid 8156:tid 608] AH00418: Parent: Created child process 6328
+[Mon Jan 29 19:59:35.986934 2018] [mpm_winnt:notice] [pid 6328:tid 680] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 29 20:00:29.255657 2018] [proxy:error] [pid 6328:tid 1168] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8080 (localhost) failed
+[Mon Jan 29 20:00:29.255657 2018] [proxy:error] [pid 6328:tid 1168] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 20:00:29.255657 2018] [proxy_http:error] [pid 6328:tid 1168] [client ::1:54614] AH01114: HTTP: failed to make connection to backend: localhost
+[Mon Jan 29 20:00:31.265442 2018] [proxy:error] [pid 6328:tid 1168] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8081 (localhost) failed
+[Mon Jan 29 20:00:31.265442 2018] [proxy:error] [pid 6328:tid 1168] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 20:00:31.265442 2018] [proxy_http:error] [pid 6328:tid 1168] [client ::1:54614] AH01114: HTTP: failed to make connection to backend: localhost
+[Mon Jan 29 20:00:34.106170 2018] [mpm_winnt:crit] [pid 6328:tid 680] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Mon Jan 29 20:00:34.106170 2018] [mpm_winnt:warn] [pid 6328:tid 1284] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Jan 29 20:00:34.106170 2018] [mpm_winnt:warn] [pid 6328:tid 1288] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Jan 29 20:00:36.115649 2018] [mpm_winnt:notice] [pid 6328:tid 680] AH00364: Child: All worker threads have exited.
+[Mon Jan 29 20:01:03.196855 2018] [core:warn] [pid 988:tid 540] AH00098: pid file C:/Users/Sandra/Documents/hw/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 29 20:01:03.228105 2018] [mpm_winnt:notice] [pid 988:tid 540] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Mon Jan 29 20:01:03.228105 2018] [mpm_winnt:notice] [pid 988:tid 540] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Mon Jan 29 20:01:03.228105 2018] [core:notice] [pid 988:tid 540] AH00094: Command line: 'C:\\Users\\Sandra\\Documents\\hw\\Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Mon Jan 29 20:01:03.306232 2018] [mpm_winnt:notice] [pid 988:tid 540] AH00418: Parent: Created child process 8632
+[Mon Jan 29 20:01:04.487494 2018] [mpm_winnt:notice] [pid 8632:tid 664] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 29 20:16:30.279941 2018] [mpm_winnt:crit] [pid 8632:tid 664] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Mon Jan 29 20:16:30.279941 2018] [mpm_winnt:warn] [pid 8632:tid 532] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Jan 29 20:16:30.279941 2018] [mpm_winnt:warn] [pid 8632:tid 1316] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Jan 29 20:16:32.296759 2018] [mpm_winnt:notice] [pid 8632:tid 664] AH00364: Child: All worker threads have exited.
+[Mon Jan 29 20:17:06.249788 2018] [core:warn] [pid 8956:tid 512] AH00098: pid file C:/Users/Sandra/Documents/hw/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 29 20:17:06.249788 2018] [mpm_winnt:notice] [pid 8956:tid 512] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Mon Jan 29 20:17:06.249788 2018] [mpm_winnt:notice] [pid 8956:tid 512] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Mon Jan 29 20:17:06.249788 2018] [core:notice] [pid 8956:tid 512] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Mon Jan 29 20:17:06.296682 2018] [mpm_winnt:notice] [pid 8956:tid 512] AH00418: Parent: Created child process 12332
+Apache server interrupted...
+018] [mpm_winnt:notice] [pid 12332:tid 600] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 29 20:17:16.160930 2018] [mpm_winnt:notice] [pid 8956:tid 512] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Mon Jan 29 20:17:18.166600 2018] [mpm_winnt:notice] [pid 12332:tid 600] AH00364: Child: All worker threads have exited.
+[Mon Jan 29 20:17:18.189598 2018] [mpm_winnt:notice] [pid 8956:tid 512] AH00430: Parent: Child process 12332 exited successfully.
+[Mon Jan 29 20:18:53.783817 2018] [mpm_winnt:notice] [pid 7552:tid 632] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Mon Jan 29 20:18:53.783817 2018] [mpm_winnt:notice] [pid 7552:tid 632] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Mon Jan 29 20:18:53.783817 2018] [core:notice] [pid 7552:tid 632] AH00094: Command line: 'C:\\Users\\Sandra\\Documents\\hw\\Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Mon Jan 29 20:18:53.908820 2018] [mpm_winnt:notice] [pid 7552:tid 632] AH00418: Parent: Created child process 7940
+[Mon Jan 29 20:18:54.887439 2018] [mpm_winnt:notice] [pid 7940:tid 632] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 29 22:04:11.184829 2018] [mpm_winnt:crit] [pid 7940:tid 632] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Mon Jan 29 22:04:11.184829 2018] [mpm_winnt:warn] [pid 7940:tid 1268] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Jan 29 22:04:11.184829 2018] [mpm_winnt:warn] [pid 7940:tid 564] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Jan 29 22:04:13.185509 2018] [mpm_winnt:notice] [pid 7940:tid 632] AH00364: Child: All worker threads have exited.
+[Mon Jan 29 22:04:33.766181 2018] [core:warn] [pid 12768:tid 588] AH00098: pid file C:/Users/Sandra/Documents/hw/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 29 22:04:33.785196 2018] [mpm_winnt:notice] [pid 12768:tid 588] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Mon Jan 29 22:04:33.785694 2018] [mpm_winnt:notice] [pid 12768:tid 588] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Mon Jan 29 22:04:33.785694 2018] [core:notice] [pid 12768:tid 588] AH00094: Command line: 'C:\\Users\\Sandra\\Documents\\hw\\Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Mon Jan 29 22:04:33.851240 2018] [mpm_winnt:notice] [pid 12768:tid 588] AH00418: Parent: Created child process 1548
+[Mon Jan 29 22:04:34.759887 2018] [mpm_winnt:notice] [pid 1548:tid 696] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 29 22:14:34.650760 2018] [mpm_winnt:crit] [pid 1548:tid 696] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Mon Jan 29 22:14:34.650760 2018] [mpm_winnt:warn] [pid 1548:tid 1244] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Jan 29 22:14:34.650760 2018] [mpm_winnt:warn] [pid 1548:tid 1268] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Jan 29 22:14:36.670888 2018] [mpm_winnt:notice] [pid 1548:tid 696] AH00364: Child: All worker threads have exited.
+[Mon Jan 29 22:18:37.163046 2018] [core:warn] [pid 15608:tid 492] AH00098: pid file C:/Users/Sandra/Documents/hw/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 29 22:18:37.178671 2018] [mpm_winnt:notice] [pid 15608:tid 492] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Mon Jan 29 22:18:37.178671 2018] [mpm_winnt:notice] [pid 15608:tid 492] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Mon Jan 29 22:18:37.178671 2018] [core:notice] [pid 15608:tid 492] AH00094: Command line: 'C:\\Users\\Sandra\\Documents\\hw\\Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Mon Jan 29 22:18:37.256798 2018] [mpm_winnt:notice] [pid 15608:tid 492] AH00418: Parent: Created child process 7696
+[Mon Jan 29 22:18:38.060153 2018] [mpm_winnt:notice] [pid 7696:tid 608] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 29 22:22:31.614850 2018] [mpm_winnt:crit] [pid 7696:tid 608] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Mon Jan 29 22:22:31.614850 2018] [mpm_winnt:warn] [pid 7696:tid 1220] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Jan 29 22:22:31.614850 2018] [mpm_winnt:warn] [pid 7696:tid 1036] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Jan 29 22:22:33.636081 2018] [mpm_winnt:notice] [pid 7696:tid 608] AH00364: Child: All worker threads have exited.
+[Mon Jan 29 22:49:28.274759 2018] [core:warn] [pid 1200:tid 568] AH00098: pid file C:/Users/Sandra/Documents/hw/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 29 22:49:28.274759 2018] [mpm_winnt:notice] [pid 1200:tid 568] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Mon Jan 29 22:49:28.274759 2018] [mpm_winnt:notice] [pid 1200:tid 568] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Mon Jan 29 22:49:28.274759 2018] [core:notice] [pid 1200:tid 568] AH00094: Command line: 'C:\\Users\\Sandra\\Documents\\hw\\Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Mon Jan 29 22:49:28.337261 2018] [mpm_winnt:notice] [pid 1200:tid 568] AH00418: Parent: Created child process 10676
+[Mon Jan 29 22:49:28.696591 2018] [mpm_winnt:notice] [pid 10676:tid 624] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 29 22:51:27.766696 2018] [proxy:error] [pid 10676:tid 1152] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8080 (localhost) failed
+[Mon Jan 29 22:51:27.766696 2018] [proxy:error] [pid 10676:tid 1152] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 22:51:27.766696 2018] [proxy_http:error] [pid 10676:tid 1152] [client ::1:57786] AH01114: HTTP: failed to make connection to backend: localhost
+[Mon Jan 29 22:51:29.772004 2018] [proxy:error] [pid 10676:tid 1152] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8081 (localhost) failed
+[Mon Jan 29 22:51:29.772004 2018] [proxy:error] [pid 10676:tid 1152] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 22:51:29.772004 2018] [proxy_http:error] [pid 10676:tid 1152] [client ::1:57786] AH01114: HTTP: failed to make connection to backend: localhost
+[Mon Jan 29 22:51:32.123619 2018] [proxy:error] [pid 10676:tid 1152] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8080 (localhost) failed
+[Mon Jan 29 22:51:32.123619 2018] [proxy:error] [pid 10676:tid 1152] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 22:51:32.123619 2018] [proxy_http:error] [pid 10676:tid 1152] [client ::1:57791] AH01114: HTTP: failed to make connection to backend: localhost, referer: http://localhost/
+[Mon Jan 29 22:51:34.182487 2018] [proxy:error] [pid 10676:tid 1152] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:8081 (localhost) failed
+[Mon Jan 29 22:51:34.182487 2018] [proxy:error] [pid 10676:tid 1152] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Mon Jan 29 22:51:34.182487 2018] [proxy_http:error] [pid 10676:tid 1152] [client ::1:57791] AH01114: HTTP: failed to make connection to backend: localhost, referer: http://localhost/
+[Mon Jan 29 22:52:15.727326 2018] [mpm_winnt:crit] [pid 10676:tid 624] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Mon Jan 29 22:52:15.727326 2018] [mpm_winnt:warn] [pid 10676:tid 1252] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Jan 29 22:52:15.727326 2018] [mpm_winnt:warn] [pid 10676:tid 1248] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Jan 29 22:52:17.751041 2018] [mpm_winnt:notice] [pid 10676:tid 624] AH00364: Child: All worker threads have exited.
+[Mon Feb 05 14:44:13.437293 2018] [core:warn] [pid 920:tid 584] AH00098: pid file C:/Users/Sandra/Documents/hw/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 05 14:44:13.487913 2018] [mpm_winnt:notice] [pid 920:tid 584] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Mon Feb 05 14:44:13.487913 2018] [mpm_winnt:notice] [pid 920:tid 584] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Mon Feb 05 14:44:13.487913 2018] [core:notice] [pid 920:tid 584] AH00094: Command line: 'C:\\Users\\Sandra\\Documents\\hw\\Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Mon Feb 05 14:44:13.535800 2018] [mpm_winnt:notice] [pid 920:tid 584] AH00418: Parent: Created child process 1872
+Apache server interrupted...
+018] [mpm_winnt:notice] [pid 1872:tid 648] AH00354: Child: Starting 64 worker threads.
+[Mon Feb 05 14:45:35.323649 2018] [mpm_winnt:notice] [pid 920:tid 584] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Feb 05 14:45:37.324447 2018] [mpm_winnt:notice] [pid 1872:tid 648] AH00364: Child: All worker threads have exited.
+[Mon Feb 05 14:45:55.883973 2018] [core:warn] [pid 8584:tid 616] AH00098: pid file C:/Users/Sandra/Documents/hw/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 05 14:45:55.904987 2018] [mpm_winnt:notice] [pid 8584:tid 616] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Mon Feb 05 14:45:55.905488 2018] [mpm_winnt:notice] [pid 8584:tid 616] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Mon Feb 05 14:45:55.905488 2018] [core:notice] [pid 8584:tid 616] AH00094: Command line: 'C:\\Users\\Sandra\\Documents\\hw\\Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Mon Feb 05 14:45:56.041584 2018] [mpm_winnt:notice] [pid 8584:tid 616] AH00418: Parent: Created child process 8024
+[Mon Feb 05 14:45:56.825141 2018] [mpm_winnt:notice] [pid 8024:tid 4] AH00354: Child: Starting 64 worker threads.
+[Tue Feb 06 18:01:15.814238 2018] [core:warn] [pid 10776:tid 608] AH00098: pid file C:/Users/Sandra/Documents/hw/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 06 18:01:15.861112 2018] [mpm_winnt:notice] [pid 10776:tid 608] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Tue Feb 06 18:01:15.861112 2018] [mpm_winnt:notice] [pid 10776:tid 608] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Tue Feb 06 18:01:15.861112 2018] [core:notice] [pid 10776:tid 608] AH00094: Command line: 'C:\\Users\\Sandra\\Documents\\hw\\Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Tue Feb 06 18:01:15.939253 2018] [mpm_winnt:notice] [pid 10776:tid 608] AH00418: Parent: Created child process 9644
+[Tue Feb 06 18:01:16.782999 2018] [mpm_winnt:notice] [pid 9644:tid 652] AH00354: Child: Starting 64 worker threads.
+[Tue Feb 06 18:51:21.976536 2018] [mpm_winnt:crit] [pid 9644:tid 652] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Feb 06 18:51:21.976536 2018] [mpm_winnt:warn] [pid 9644:tid 544] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Tue Feb 06 18:51:21.976536 2018] [mpm_winnt:warn] [pid 9644:tid 1208] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Tue Feb 06 18:51:24.007811 2018] [mpm_winnt:notice] [pid 9644:tid 652] AH00364: Child: All worker threads have exited.
+[Tue Feb 06 18:51:40.164407 2018] [core:warn] [pid 700:tid 568] AH00098: pid file C:/Users/Sandra/Documents/hw/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 06 18:51:40.273782 2018] [mpm_winnt:notice] [pid 700:tid 568] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Tue Feb 06 18:51:40.273782 2018] [mpm_winnt:notice] [pid 700:tid 568] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Tue Feb 06 18:51:40.273782 2018] [core:notice] [pid 700:tid 568] AH00094: Command line: 'C:\\Users\\Sandra\\Documents\\hw\\Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Tue Feb 06 18:51:40.336284 2018] [mpm_winnt:notice] [pid 700:tid 568] AH00418: Parent: Created child process 7184
+[Tue Feb 06 18:51:42.045855 2018] [mpm_winnt:notice] [pid 7184:tid 720] AH00354: Child: Starting 64 worker threads.
+[Tue Feb 06 18:52:07.349032 2018] [mpm_winnt:crit] [pid 7184:tid 720] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Feb 06 18:52:07.349032 2018] [mpm_winnt:warn] [pid 7184:tid 1200] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Tue Feb 06 18:52:07.349032 2018] [mpm_winnt:warn] [pid 7184:tid 608] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Tue Feb 06 18:52:09.370179 2018] [mpm_winnt:notice] [pid 7184:tid 720] AH00364: Child: All worker threads have exited.
+[Tue Feb 06 18:57:49.036026 2018] [core:warn] [pid 9152:tid 568] AH00098: pid file C:/Users/Sandra/Documents/hw/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 06 18:57:49.114152 2018] [mpm_winnt:notice] [pid 9152:tid 568] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Tue Feb 06 18:57:49.114152 2018] [mpm_winnt:notice] [pid 9152:tid 568] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Tue Feb 06 18:57:49.114152 2018] [core:notice] [pid 9152:tid 568] AH00094: Command line: 'C:\\Users\\Sandra\\Documents\\hw\\Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Tue Feb 06 18:57:49.223528 2018] [mpm_winnt:notice] [pid 9152:tid 568] AH00418: Parent: Created child process 9316
+[Tue Feb 06 18:57:50.473546 2018] [mpm_winnt:notice] [pid 9316:tid 580] AH00354: Child: Starting 64 worker threads.
+[Tue Feb 06 18:58:53.225190 2018] [mpm_winnt:crit] [pid 9316:tid 580] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Feb 06 18:58:53.225190 2018] [mpm_winnt:warn] [pid 9316:tid 684] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Tue Feb 06 18:58:53.225190 2018] [mpm_winnt:warn] [pid 9316:tid 4] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Tue Feb 06 18:58:53.226190 2018] [mpm_winnt:error] [pid 9316:tid 4] (OS 10038)An operation was attempted on something that is not a socket.  : AH00337: Child: Encountered too many AcceptEx faults accepting client connections. Possible causes: dynamic address renewal, or incompatible VPN or firewall software. 
+[Tue Feb 06 18:58:53.226190 2018] [mpm_winnt:error] [pid 9316:tid 684] (OS 10038)An operation was attempted on something that is not a socket.  : AH00337: Child: Encountered too many AcceptEx faults accepting client connections. Possible causes: dynamic address renewal, or incompatible VPN or firewall software. 
+[Tue Feb 06 18:58:53.226190 2018] [mpm_winnt:notice] [pid 9316:tid 4] (OS 10038)An operation was attempted on something that is not a socket.  : AH00338: winnt_mpm: falling back to 'AcceptFilter none'.
+[Tue Feb 06 18:58:53.226190 2018] [mpm_winnt:notice] [pid 9316:tid 684] (OS 10038)An operation was attempted on something that is not a socket.  : AH00338: winnt_mpm: falling back to 'AcceptFilter none'.
+[Tue Feb 06 18:58:55.253403 2018] [mpm_winnt:notice] [pid 9316:tid 580] AH00364: Child: All worker threads have exited.
+[Tue Feb 06 19:09:36.860960 2018] [core:warn] [pid 1412:tid 572] AH00098: pid file C:/Users/Sandra/Documents/hw/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 06 19:09:36.876586 2018] [mpm_winnt:notice] [pid 1412:tid 572] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Tue Feb 06 19:09:36.876586 2018] [mpm_winnt:notice] [pid 1412:tid 572] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Tue Feb 06 19:09:36.876586 2018] [core:notice] [pid 1412:tid 572] AH00094: Command line: 'C:\\Users\\Sandra\\Documents\\hw\\Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Tue Feb 06 19:09:37.126589 2018] [mpm_winnt:notice] [pid 1412:tid 572] AH00418: Parent: Created child process 10492
+[Tue Feb 06 19:09:38.485986 2018] [mpm_winnt:notice] [pid 10492:tid 680] AH00354: Child: Starting 64 worker threads.
+[Tue Feb 06 19:10:00.081256 2018] [mpm_winnt:crit] [pid 10492:tid 680] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Feb 06 19:10:00.081256 2018] [mpm_winnt:warn] [pid 10492:tid 648] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Tue Feb 06 19:10:00.081256 2018] [mpm_winnt:warn] [pid 10492:tid 652] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Tue Feb 06 19:10:00.081256 2018] [mpm_winnt:error] [pid 10492:tid 648] (OS 10038)An operation was attempted on something that is not a socket.  : AH00337: Child: Encountered too many AcceptEx faults accepting client connections. Possible causes: dynamic address renewal, or incompatible VPN or firewall software. 
+[Tue Feb 06 19:10:00.081256 2018] [mpm_winnt:error] [pid 10492:tid 652] (OS 10038)An operation was attempted on something that is not a socket.  : AH00337: Child: Encountered too many AcceptEx faults accepting client connections. Possible causes: dynamic address renewal, or incompatible VPN or firewall software. 
+[Tue Feb 06 19:10:00.081256 2018] [mpm_winnt:notice] [pid 10492:tid 648] (OS 10038)An operation was attempted on something that is not a socket.  : AH00338: winnt_mpm: falling back to 'AcceptFilter none'.
+[Tue Feb 06 19:10:00.096880 2018] [mpm_winnt:notice] [pid 10492:tid 652] (OS 10038)An operation was attempted on something that is not a socket.  : AH00338: winnt_mpm: falling back to 'AcceptFilter none'.
+[Tue Feb 06 19:10:02.126271 2018] [mpm_winnt:notice] [pid 10492:tid 680] AH00364: Child: All worker threads have exited.
+[Tue Feb 06 19:15:00.825841 2018] [core:warn] [pid 892:tid 620] AH00098: pid file C:/Users/Sandra/Documents/hw/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 06 19:15:00.841466 2018] [mpm_winnt:notice] [pid 892:tid 620] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Tue Feb 06 19:15:00.841466 2018] [mpm_winnt:notice] [pid 892:tid 620] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Tue Feb 06 19:15:00.841466 2018] [core:notice] [pid 892:tid 620] AH00094: Command line: 'C:\\Users\\Sandra\\Documents\\hw\\Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Tue Feb 06 19:15:00.919592 2018] [mpm_winnt:notice] [pid 892:tid 620] AH00418: Parent: Created child process 5728
+[Tue Feb 06 19:15:02.085567 2018] [mpm_winnt:notice] [pid 5728:tid 636] AH00354: Child: Starting 64 worker threads.
+[Tue Feb 06 19:50:07.338430 2018] [mpm_winnt:crit] [pid 5728:tid 636] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Feb 06 19:50:07.338430 2018] [mpm_winnt:warn] [pid 5728:tid 500] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Tue Feb 06 19:50:07.338430 2018] [mpm_winnt:warn] [pid 5728:tid 1180] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Tue Feb 06 19:50:07.338430 2018] [mpm_winnt:error] [pid 5728:tid 1180] (OS 10022)An invalid argument was supplied.  : AH00337: Child: Encountered too many AcceptEx faults accepting client connections. Possible causes: dynamic address renewal, or incompatible VPN or firewall software. 
+[Tue Feb 06 19:50:07.338430 2018] [mpm_winnt:error] [pid 5728:tid 500] (OS 10038)An operation was attempted on something that is not a socket.  : AH00337: Child: Encountered too many AcceptEx faults accepting client connections. Possible causes: dynamic address renewal, or incompatible VPN or firewall software. 
+[Tue Feb 06 19:50:07.338430 2018] [mpm_winnt:notice] [pid 5728:tid 1180] (OS 10022)An invalid argument was supplied.  : AH00338: winnt_mpm: falling back to 'AcceptFilter none'.
+[Tue Feb 06 19:50:07.338430 2018] [mpm_winnt:notice] [pid 5728:tid 500] (OS 10038)An operation was attempted on something that is not a socket.  : AH00338: winnt_mpm: falling back to 'AcceptFilter none'.
+[Tue Feb 06 19:50:09.355767 2018] [mpm_winnt:notice] [pid 5728:tid 636] AH00364: Child: All worker threads have exited.
+[Tue Feb 06 19:50:23.718046 2018] [core:warn] [pid 284:tid 616] AH00098: pid file C:/Users/Sandra/Documents/hw/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 06 19:50:23.764923 2018] [mpm_winnt:notice] [pid 284:tid 616] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Tue Feb 06 19:50:23.764923 2018] [mpm_winnt:notice] [pid 284:tid 616] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Tue Feb 06 19:50:23.764923 2018] [core:notice] [pid 284:tid 616] AH00094: Command line: 'C:\\Users\\Sandra\\Documents\\hw\\Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Tue Feb 06 19:50:23.827424 2018] [mpm_winnt:notice] [pid 284:tid 616] AH00418: Parent: Created child process 2772
+Apache server interrupted...
+018] [mpm_winnt:notice] [pid 2772:tid 640] AH00354: Child: Starting 64 worker threads.
+[Tue Feb 06 19:50:35.880856 2018] [mpm_winnt:notice] [pid 284:tid 616] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Tue Feb 06 19:50:37.900045 2018] [mpm_winnt:notice] [pid 2772:tid 640] AH00364: Child: All worker threads have exited.
+[Tue Feb 06 19:50:37.931257 2018] [mpm_winnt:notice] [pid 284:tid 616] AH00430: Parent: Child process 2772 exited successfully.
+[Tue Feb 06 19:51:07.753108 2018] [mpm_winnt:notice] [pid 2832:tid 644] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Tue Feb 06 19:51:07.753108 2018] [mpm_winnt:notice] [pid 2832:tid 644] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Tue Feb 06 19:51:07.753108 2018] [core:notice] [pid 2832:tid 644] AH00094: Command line: 'C:\\Users\\Sandra\\Documents\\hw\\Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Tue Feb 06 19:51:08.065610 2018] [mpm_winnt:notice] [pid 2832:tid 644] AH00418: Parent: Created child process 4792
+[Tue Feb 06 19:51:09.362502 2018] [mpm_winnt:notice] [pid 4792:tid 588] AH00354: Child: Starting 64 worker threads.
+[Tue Feb 06 20:48:29.487773 2018] [mpm_winnt:crit] [pid 4792:tid 588] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Feb 06 20:48:29.487773 2018] [mpm_winnt:warn] [pid 4792:tid 1208] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Tue Feb 06 20:48:29.487773 2018] [mpm_winnt:warn] [pid 4792:tid 1204] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Tue Feb 06 20:48:31.510915 2018] [mpm_winnt:notice] [pid 4792:tid 588] AH00364: Child: All worker threads have exited.
+[Tue Feb 06 20:48:48.920501 2018] [core:warn] [pid 11388:tid 548] AH00098: pid file C:/Users/Sandra/Documents/hw/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 06 20:48:48.936126 2018] [mpm_winnt:notice] [pid 11388:tid 548] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Tue Feb 06 20:48:48.936126 2018] [mpm_winnt:notice] [pid 11388:tid 548] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Tue Feb 06 20:48:48.936126 2018] [core:notice] [pid 11388:tid 548] AH00094: Command line: 'C:\\Users\\Sandra\\Documents\\hw\\Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Tue Feb 06 20:48:48.967376 2018] [mpm_winnt:notice] [pid 11388:tid 548] AH00418: Parent: Created child process 11188
+[Tue Feb 06 20:48:49.764263 2018] [mpm_winnt:notice] [pid 11188:tid 656] AH00354: Child: Starting 64 worker threads.
+[Tue Feb 06 20:49:22.000124 2018] [mpm_winnt:crit] [pid 11188:tid 656] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Feb 06 20:49:22.000124 2018] [mpm_winnt:warn] [pid 11188:tid 628] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Tue Feb 06 20:49:22.000124 2018] [mpm_winnt:error] [pid 11188:tid 628] (OS 10038)An operation was attempted on something that is not a socket.  : AH00337: Child: Encountered too many AcceptEx faults accepting client connections. Possible causes: dynamic address renewal, or incompatible VPN or firewall software. 
+[Tue Feb 06 20:49:22.000124 2018] [mpm_winnt:notice] [pid 11188:tid 628] (OS 10038)An operation was attempted on something that is not a socket.  : AH00338: winnt_mpm: falling back to 'AcceptFilter none'.
+[Tue Feb 06 20:49:23.214528 2018] [core:warn] [pid 12248:tid 620] AH00098: pid file C:/Users/Sandra/Documents/hw/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 06 20:49:23.245778 2018] [mpm_winnt:notice] [pid 12248:tid 620] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Tue Feb 06 20:49:23.245778 2018] [mpm_winnt:notice] [pid 12248:tid 620] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Tue Feb 06 20:49:23.245778 2018] [core:notice] [pid 12248:tid 620] AH00094: Command line: 'C:\\Users\\Sandra\\Documents\\hw\\Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Tue Feb 06 20:49:23.355153 2018] [mpm_winnt:notice] [pid 12248:tid 620] AH00418: Parent: Created child process 11668
+[Tue Feb 06 20:49:24.027036 2018] [mpm_winnt:notice] [pid 11188:tid 656] AH00364: Child: All worker threads have exited.
+[Tue Feb 06 20:49:24.105162 2018] [mpm_winnt:notice] [pid 11668:tid 644] AH00354: Child: Starting 64 worker threads.
+[Tue Feb 06 20:49:43.030524 2018] [mpm_winnt:crit] [pid 11668:tid 644] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Feb 06 20:49:43.030524 2018] [mpm_winnt:warn] [pid 11668:tid 1200] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Tue Feb 06 20:49:43.030524 2018] [mpm_winnt:warn] [pid 11668:tid 1204] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Tue Feb 06 20:49:45.053910 2018] [mpm_winnt:notice] [pid 11668:tid 644] AH00364: Child: All worker threads have exited.
+[Tue Feb 06 21:01:20.314502 2018] [core:warn] [pid 4896:tid 584] AH00098: pid file C:/Users/Sandra/Documents/hw/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 06 21:01:20.414573 2018] [mpm_winnt:notice] [pid 4896:tid 584] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Tue Feb 06 21:01:20.414573 2018] [mpm_winnt:notice] [pid 4896:tid 584] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Tue Feb 06 21:01:20.414573 2018] [core:notice] [pid 4896:tid 584] AH00094: Command line: 'C:\\Users\\Sandra\\Documents\\hw\\Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Tue Feb 06 21:01:20.469112 2018] [mpm_winnt:notice] [pid 4896:tid 584] AH00418: Parent: Created child process 13144
+Apache server interrupted...
+018] [mpm_winnt:notice] [pid 13144:tid 708] AH00354: Child: Starting 64 worker threads.
+[Tue Feb 06 21:44:13.028430 2018] [mpm_winnt:notice] [pid 4896:tid 584] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Tue Feb 06 21:44:15.056481 2018] [mpm_winnt:notice] [pid 13144:tid 708] AH00364: Child: All worker threads have exited.
+[Tue Feb 06 21:44:15.122124 2018] [mpm_winnt:notice] [pid 4896:tid 584] AH00430: Parent: Child process 13144 exited successfully.
+[Tue Feb 06 22:13:23.096123 2018] [mpm_winnt:notice] [pid 13640:tid 636] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Tue Feb 06 22:13:23.096123 2018] [mpm_winnt:notice] [pid 13640:tid 636] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Tue Feb 06 22:13:23.096123 2018] [core:notice] [pid 13640:tid 636] AH00094: Command line: 'C:\\Users\\Sandra\\Documents\\hw\\Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Tue Feb 06 22:13:23.174249 2018] [mpm_winnt:notice] [pid 13640:tid 636] AH00418: Parent: Created child process 12180
+Apache server interrupted...
+018] [mpm_winnt:notice] [pid 12180:tid 664] AH00354: Child: Starting 64 worker threads.
+[Tue Feb 06 22:15:01.179734 2018] [mpm_winnt:notice] [pid 13640:tid 636] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Feb 06 22:15:03.204119 2018] [mpm_winnt:notice] [pid 12180:tid 664] AH00364: Child: All worker threads have exited.
+[Tue Feb 06 22:15:03.219802 2018] [mpm_winnt:notice] [pid 13640:tid 636] AH00430: Parent: Child process 12180 exited successfully.
+[Tue Feb 06 23:09:38.753358 2018] [mpm_winnt:notice] [pid 13392:tid 572] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Tue Feb 06 23:09:38.753358 2018] [mpm_winnt:notice] [pid 13392:tid 572] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Tue Feb 06 23:09:38.753358 2018] [core:notice] [pid 13392:tid 572] AH00094: Command line: 'C:\\Users\\Sandra\\Documents\\hw\\Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Tue Feb 06 23:09:38.831485 2018] [mpm_winnt:notice] [pid 13392:tid 572] AH00418: Parent: Created child process 7236
+Apache server interrupted...
+018] [mpm_winnt:notice] [pid 7236:tid 600] AH00354: Child: Starting 64 worker threads.
+[Tue Feb 06 23:51:39.654573 2018] [mpm_winnt:notice] [pid 13392:tid 572] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+[Tue Feb 06 23:51:41.677181 2018] [mpm_winnt:notice] [pid 7236:tid 600] AH00364: Child: All worker threads have exited.
+[Tue Feb 06 23:51:41.770932 2018] [mpm_winnt:notice] [pid 13392:tid 572] AH00430: Parent: Child process 7236 exited successfully.
+[Wed Feb 07 00:03:36.603158 2018] [mpm_winnt:notice] [pid 8956:tid 696] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Wed Feb 07 00:03:36.620670 2018] [mpm_winnt:notice] [pid 8956:tid 696] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Wed Feb 07 00:03:36.620670 2018] [core:notice] [pid 8956:tid 696] AH00094: Command line: 'C:\\Users\\Sandra\\Documents\\hw\\Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Wed Feb 07 00:03:36.744757 2018] [mpm_winnt:notice] [pid 8956:tid 696] AH00418: Parent: Created child process 14192
+[Wed Feb 07 00:03:38.560045 2018] [mpm_winnt:notice] [pid 14192:tid 504] AH00354: Child: Starting 64 worker threads.
+[Wed Feb 07 00:03:52.840532 2018] [mpm_winnt:crit] [pid 14192:tid 504] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Wed Feb 07 00:03:52.841033 2018] [mpm_winnt:warn] [pid 14192:tid 1204] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Feb 07 00:03:52.841033 2018] [mpm_winnt:warn] [pid 14192:tid 1208] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Feb 07 00:03:54.851010 2018] [mpm_winnt:notice] [pid 14192:tid 504] AH00364: Child: All worker threads have exited.
+[Wed Feb 07 00:04:28.553596 2018] [core:warn] [pid 13568:tid 624] AH00098: pid file C:/Users/Sandra/Documents/hw/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 07 00:04:28.787975 2018] [mpm_winnt:notice] [pid 13568:tid 624] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Wed Feb 07 00:04:28.787975 2018] [mpm_winnt:notice] [pid 13568:tid 624] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Wed Feb 07 00:04:28.787975 2018] [core:notice] [pid 13568:tid 624] AH00094: Command line: 'C:\\Users\\Sandra\\Documents\\hw\\Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Wed Feb 07 00:04:28.959851 2018] [mpm_winnt:notice] [pid 13568:tid 624] AH00418: Parent: Created child process 2684
+[Wed Feb 07 00:04:29.991114 2018] [mpm_winnt:notice] [pid 2684:tid 656] AH00354: Child: Starting 64 worker threads.
+[Wed Feb 07 00:04:40.622196 2018] [mpm_winnt:crit] [pid 2684:tid 656] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Wed Feb 07 00:04:40.622196 2018] [mpm_winnt:warn] [pid 2684:tid 4] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Feb 07 00:04:40.622196 2018] [mpm_winnt:warn] [pid 2684:tid 552] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Feb 07 00:04:42.648301 2018] [mpm_winnt:notice] [pid 2684:tid 656] AH00364: Child: All worker threads have exited.
+[Wed Feb 07 13:22:00.338632 2018] [core:warn] [pid 6412:tid 596] AH00098: pid file C:/Users/Sandra/Documents/hw/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 07 13:22:00.382548 2018] [mpm_winnt:notice] [pid 6412:tid 596] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Wed Feb 07 13:22:00.382548 2018] [mpm_winnt:notice] [pid 6412:tid 596] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Wed Feb 07 13:22:00.382548 2018] [core:notice] [pid 6412:tid 596] AH00094: Command line: 'C:\\Users\\Sandra\\Documents\\hw\\Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Wed Feb 07 13:22:00.441592 2018] [mpm_winnt:notice] [pid 6412:tid 596] AH00418: Parent: Created child process 3472
+Apache server interrupted...
+018] [mpm_winnt:notice] [pid 3472:tid 640] AH00354: Child: Starting 64 worker threads.
+[Wed Feb 07 13:57:59.099966 2018] [mpm_winnt:notice] [pid 6412:tid 596] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Wed Feb 07 13:58:01.101952 2018] [mpm_winnt:notice] [pid 3472:tid 640] AH00364: Child: All worker threads have exited.
+[Wed Feb 07 13:58:01.139979 2018] [mpm_winnt:notice] [pid 6412:tid 596] AH00430: Parent: Child process 3472 exited successfully.
+[Wed Feb 07 13:58:42.603465 2018] [mpm_winnt:notice] [pid 5512:tid 640] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Wed Feb 07 13:58:42.604465 2018] [mpm_winnt:notice] [pid 5512:tid 640] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Wed Feb 07 13:58:42.604465 2018] [core:notice] [pid 5512:tid 640] AH00094: Command line: 'C:\\Users\\Sandra\\Documents\\hw\\Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Wed Feb 07 13:58:42.659504 2018] [mpm_winnt:notice] [pid 5512:tid 640] AH00418: Parent: Created child process 2916
+Apache server interrupted...
+018] [mpm_winnt:notice] [pid 2916:tid 652] AH00354: Child: Starting 64 worker threads.
+[Wed Feb 07 14:03:43.871425 2018] [mpm_winnt:notice] [pid 5512:tid 640] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+[Wed Feb 07 14:03:45.873386 2018] [mpm_winnt:notice] [pid 2916:tid 652] AH00364: Child: All worker threads have exited.
+[Wed Feb 07 14:03:45.898458 2018] [mpm_winnt:notice] [pid 5512:tid 640] AH00430: Parent: Child process 2916 exited successfully.

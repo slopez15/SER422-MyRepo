@@ -1,0 +1,89 @@
+Differences
+#==================================
+#WHAT TO CHANGE?
+#==================================
+
+422 files
+	they call real file1.sh
+	full paths
+	stop422
+		change to ps -a. flags work only in WSL bash.
+	change to file.sh
+1 files
+	Must source setIntroPathAndScriptDir.sh
+		*Make sure each file's path correct.
+			Way around this is to make options.sh
+				This make options/set file the only file needed to edit.
+	FULL PATHS
+		*note: cygwin refers to windows paths, but ignore and reapply vars. 
+		INTRO_PATH=/mnt
+		USER_NAME=Sandra
+		HW=$INTRO_PATH/c/Users/$USER_NAME/Documents/hw
+		
+		SCRIPT_DIR=$HW/422scripts
+		#TOMCAT=$HW/tomcat-8.5.24-$1
+		export JAVA_HOME=$INTRO_PATH"/c/Program Files/Java/jdk-9.0.1"
+	maybe add env and line for 
+		note: didn't but check restart.sh
+		CATALINA_HOME, 
+		CATALINA_OPTS,
+		TOMCAT_HOME,
+		JAVA_OPTS, 
+		JAVA_HOME,
+		command
+	.
+start/stop/restart(might just call stop/start)
+	*re-write to include apache
+	*see below.
+	#echo "Restarting Apache" 
+		#1of2:: start:httpd stop:NA/custom --place these in start/stop
+		#2of2:: start.sh & stop.sh. can remove tomcat env of restart file.
+	restart
+		note if stoping a non-running tomcat, java error occurs.
+	.
+Other
+	debug scripts
+	where
+	setIntroPathAndScriptDir
+		can source once and chain the rest.
+.
+#==================================
+		sh scripting notes
+#==================================
+
+*see practice folders
+
+
+#==============================================
+	How to invoke old default programs panel
+#==============================================
+To invoke the old "Set your default programs" interface in 1709:
+
+control /name Microsoft.DefaultPrograms /page pageDefaultProgram
+
+To invoke the old "Associate a file type or protocol with a program" interface in 1709:
+
+control /name Microsoft.DefaultPrograms /page pageFileAssoc
+
+
+#==================================
+#==================================
+
+
+
+#==================================
+#==================================
+
+
+
+#==================================
+#==================================
+
+
+
+#==================================
+#==================================
+
+
+
+

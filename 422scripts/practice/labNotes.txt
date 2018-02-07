@@ -1,0 +1,38 @@
+=======Lab1=======
+cookie servlet, 
+build dir into webapps (for autobuild)?, 
+correct: localhost/context/path?languages=Java&languages=Scala 
+	teacher: languages=Java+Scala, 
+spaces between languages and not between days?!?,
+
+
+Q:
+When we confirm the multipage form data and there are errors on multiple pages do we only need to show an error message on the first page we redirect to? Or do we show error messages on future pages that also were the source of bad form data?
+A: 
+I'd redirect to the first page with the error, then if they go through the form and don't fix the other errors then redirect to the next error on the next run-through
+
+lab 1 submission: one zip file, two .war, two src tree
+
+Refer to examples for:
+	ant build.xml
+	servlets
+	DAO/repo pattern
+.
+
+getservletcontext().log() prints to a localhost-${today}.log file
+	in the corresponding tomcat/log dir. 
+Then, 
+	tail -f on the file. 
+	tail -f file.log | grep  "DEBUG" 
+shows log messages that start with debug
+
+=======Lab2=======
+do DAO
+So much for the repository pattern…
+overhead with DAO pattern
+refer to ValueObject/DAOObject/etc
+
+
+
+
+
