@@ -28711,3 +28711,50 @@ NOTE: Picked up JDK_JAVA_OPTIONS:  --add-opens=java.base/java.lang=ALL-UNNAMED -
 07-Feb-2018 14:03:44.511 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8010"]
 07-Feb-2018 14:03:44.517 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8081"]
 07-Feb-2018 14:03:44.519 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8010"]
+07-Feb-2018 14:13:41.089 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.24
+07-Feb-2018 14:13:41.101 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 27 2017 13:05:30 UTC
+07-Feb-2018 14:13:41.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.24.0
+07-Feb-2018 14:13:41.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+07-Feb-2018 14:13:41.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+07-Feb-2018 14:13:41.103 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+07-Feb-2018 14:13:41.103 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-9.0.1
+07-Feb-2018 14:13:41.103 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           9.0.1+11
+07-Feb-2018 14:13:41.104 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+07-Feb-2018 14:13:41.104 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Sandra\Documents\hw\tomcat-8.5.24-8081
+07-Feb-2018 14:13:41.105 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Sandra\Documents\hw\tomcat-8.5.24-8081
+07-Feb-2018 14:13:41.106 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+07-Feb-2018 14:13:41.106 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+07-Feb-2018 14:13:41.106 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Sandra\Documents\hw\tomcat-8.5.24-8081/conf/logging.properties
+07-Feb-2018 14:13:41.107 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+07-Feb-2018 14:13:41.108 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms128m
+07-Feb-2018 14:13:41.108 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx256m
+07-Feb-2018 14:13:41.108 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+07-Feb-2018 14:13:41.109 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+07-Feb-2018 14:13:41.109 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+07-Feb-2018 14:13:41.110 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Sandra\Documents\hw\tomcat-8.5.24-8081
+07-Feb-2018 14:13:41.110 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Sandra\Documents\hw\tomcat-8.5.24-8081
+07-Feb-2018 14:13:41.111 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Sandra\Documents\hw\tomcat-8.5.24-8081\temp
+07-Feb-2018 14:13:41.111 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk-9.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client;C:\Program Files\Intel\iCLS Client;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x64;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon;C:\Program Files (x86)\Skype\Phone;C:\cygwin64\bin;C:\Program Files\nodejs;C:\Python27;C:\Python27\Scripts;C:\Users\Sandra\AppData\Local\Programs\Python\Python36\Scripts;C:\Users\Sandra\AppData\Local\Programs\Python\Python36;C:\MinGW\bin;C:\Program Files\Java\jdk-9.0.1\bin;C:\Program Files\dotnet;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Program Files\Git\cmd;C:\ApacheAnt1.10.2\bin;C:\gradle-4.5.1\bin;C:\Users\Sandra\AppData\Local\Microsoft\WindowsApps;C:\Users\Sandra\AppData\Roaming\npm;C:\Users\Sandra\AppData\Local\atom\bin;C:\Users\Sandra\AppData\Local\GitHubDesktop\bin;C:\Program Files\Heroku\bin;C:\Program Files\Docker Toolbox;C:\Users\Sandra\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;.]
+07-Feb-2018 14:13:41.246 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8081"]
+07-Feb-2018 14:13:41.610 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-Feb-2018 14:13:41.626 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8010"]
+07-Feb-2018 14:13:41.635 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-Feb-2018 14:13:41.636 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 3366 ms
+07-Feb-2018 14:13:41.873 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+07-Feb-2018 14:13:41.873 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.24
+07-Feb-2018 14:13:41.926 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Sandra\Documents\hw\tomcat-8.5.24-8081\webapps\docs]
+07-Feb-2018 14:13:43.163 WARNING [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [227] milliseconds.
+07-Feb-2018 14:13:43.208 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Sandra\Documents\hw\tomcat-8.5.24-8081\webapps\docs] has finished in [1,282] ms
+07-Feb-2018 14:13:43.209 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Sandra\Documents\hw\tomcat-8.5.24-8081\webapps\examples]
+07-Feb-2018 14:13:44.033 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Sandra\Documents\hw\tomcat-8.5.24-8081\webapps\examples] has finished in [824] ms
+07-Feb-2018 14:13:44.033 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Sandra\Documents\hw\tomcat-8.5.24-8081\webapps\host-manager]
+07-Feb-2018 14:13:44.109 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Sandra\Documents\hw\tomcat-8.5.24-8081\webapps\host-manager] has finished in [76] ms
+07-Feb-2018 14:13:44.110 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Sandra\Documents\hw\tomcat-8.5.24-8081\webapps\manager]
+07-Feb-2018 14:13:44.176 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Sandra\Documents\hw\tomcat-8.5.24-8081\webapps\manager] has finished in [66] ms
+07-Feb-2018 14:13:44.177 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Sandra\Documents\hw\tomcat-8.5.24-8081\webapps\ROOT]
+07-Feb-2018 14:13:44.236 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Sandra\Documents\hw\tomcat-8.5.24-8081\webapps\ROOT] has finished in [59] ms
+07-Feb-2018 14:13:44.237 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Sandra\Documents\hw\tomcat-8.5.24-8081\webapps\ROOT-original]
+07-Feb-2018 14:13:44.289 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Sandra\Documents\hw\tomcat-8.5.24-8081\webapps\ROOT-original] has finished in [52] ms
+07-Feb-2018 14:13:44.324 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8081"]
+07-Feb-2018 14:13:44.390 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8010"]
+07-Feb-2018 14:13:44.403 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 2765 ms

@@ -637,3 +637,14 @@ Apache server interrupted...
 Apache server interrupted...
 [Wed Feb 07 14:03:45.873386 2018] [mpm_winnt:notice] [pid 2916:tid 652] AH00364: Child: All worker threads have exited.
 [Wed Feb 07 14:03:45.898458 2018] [mpm_winnt:notice] [pid 5512:tid 640] AH00430: Parent: Child process 2916 exited successfully.
+[Wed Feb 07 14:13:39.569609 2018] [mpm_winnt:notice] [pid 13488:tid 580] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Wed Feb 07 14:13:39.570610 2018] [mpm_winnt:notice] [pid 13488:tid 580] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Wed Feb 07 14:13:39.570610 2018] [core:notice] [pid 13488:tid 580] AH00094: Command line: 'C:\\Users\\Sandra\\Documents\\hw\\Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Wed Feb 07 14:13:39.728721 2018] [mpm_winnt:notice] [pid 13488:tid 580] AH00418: Parent: Created child process 11848
+[Wed Feb 07 14:13:41.588040 2018] [mpm_winnt:notice] [pid 11848:tid 688] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 09 13:47:28.041516 2018] [core:warn] [pid 10216:tid 556] AH00098: pid file C:/Users/Sandra/Documents/hw/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Feb 09 13:47:28.084259 2018] [mpm_winnt:notice] [pid 10216:tid 556] AH00455: Apache/2.4.29 (Win64) configured -- resuming normal operations
+[Fri Feb 09 13:47:28.084259 2018] [mpm_winnt:notice] [pid 10216:tid 556] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Fri Feb 09 13:47:28.084259 2018] [core:notice] [pid 10216:tid 556] AH00094: Command line: 'C:\\Users\\Sandra\\Documents\\hw\\Apache24\\bin\\httpd.exe -d C:/Users/Sandra/Documents/hw/Apache24'
+[Fri Feb 09 13:47:28.167192 2018] [mpm_winnt:notice] [pid 10216:tid 556] AH00418: Parent: Created child process 11472
+[Fri Feb 09 13:47:28.717861 2018] [mpm_winnt:notice] [pid 11472:tid 644] AH00354: Child: Starting 64 worker threads.
