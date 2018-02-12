@@ -13,7 +13,7 @@ $SCRIPT_DIR/stop1.sh 8081
 #Stop Apache24/bin/httpd
 echo "Stopping Apache24/bin/httpd"
 $SCRIPT_DIR/stopApache.sh
-#sleep 3
+sleep 2
 
 echo "LOOKING FOR LEFTOVER PROCESSES" #JAVA?
 ps -a #| grep -i java #cygwin bash only. Removed grep to see apache and if working.

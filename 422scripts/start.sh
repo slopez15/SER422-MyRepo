@@ -13,7 +13,7 @@ $SCRIPT_DIR/start1.sh 8081
 #Start Apache24/bin/httpd
 echo "Starting Apache24/bin/httpd"
 $SCRIPT_DIR/startApache.sh
-#sleep 3
+#sleep 2
 
 echo "LOOKING FOR RUNNING PROCESSES"
 #echo `ps -efwww | grep java` #bash only

@@ -1,0 +1,8 @@
+
+#!/bin/bash
+export INTRO_PATH=/cygdrive
+export USER_NAME=Sandra
+
+#====================
+echo "  Sourcing Base Environment"
+source /cygdrive/c/Users/Sandra/Documents/hw/422scripts/setIntroPathAndScriptDir.sh

@@ -354,3 +354,46 @@
 ::1 - - [07/Feb/2018:14:13:52 -0700] "GET / HTTP/1.1" 200 18756
 127.0.0.1 - - [07/Feb/2018:14:14:41 -0700] "-" 408 -
 127.0.0.1 - - [07/Feb/2018:14:14:41 -0700] "-" 408 -
+::1 - - [12/Feb/2018:12:26:18 -0700] "GET / HTTP/1.1" 200 18724
+::1 - - [12/Feb/2018:12:26:19 -0700] "GET /favicon.ico HTTP/1.1" 404 1085
+::1 - - [12/Feb/2018:12:27:00 -0700] "GET / HTTP/1.1" 200 11230
+::1 - - [12/Feb/2018:12:27:27 -0700] "GET / HTTP/1.1" 200 18756
+::1 - - [12/Feb/2018:12:27:39 -0700] "GET /manager/html HTTP/1.1" 401 2473
+::1 - - [12/Feb/2018:12:27:42 -0700] "GET /manager/html HTTP/1.1" 200 18592
+::1 - - [12/Feb/2018:12:27:52 -0700] "GET /manager/status?org.apache.catalina.filters.CSRF_NONCE=8B5512DF6D7395D3EE5F094161D541F8 HTTP/1.1" 200 7135
+::1 - - [12/Feb/2018:12:28:25 -0700] "GET / HTTP/1.1" 200 11230
+::1 - - [12/Feb/2018:12:28:27 -0700] "GET /tomcat.css HTTP/1.1" 200 5581
+::1 - - [12/Feb/2018:12:28:27 -0700] "GET /bg-upper.png HTTP/1.1" 200 3103
+::1 - - [12/Feb/2018:12:28:27 -0700] "GET /tomcat.png HTTP/1.1" 200 5103
+::1 - - [12/Feb/2018:12:28:27 -0700] "GET /asf-logo-wide.svg HTTP/1.1" 200 27235
+::1 - - [12/Feb/2018:12:28:27 -0700] "GET /bg-middle.png HTTP/1.1" 200 1918
+::1 - - [12/Feb/2018:12:28:27 -0700] "GET /bg-button.png HTTP/1.1" 200 713
+::1 - - [12/Feb/2018:12:28:27 -0700] "GET /bg-nav.png HTTP/1.1" 200 1401
+::1 - - [12/Feb/2018:12:28:31 -0700] "GET /manager/html HTTP/1.1" 401 2473
+::1 - - [12/Feb/2018:12:28:35 -0700] "GET /manager/html HTTP/1.1" 200 20009
+::1 - - [12/Feb/2018:12:28:35 -0700] "GET /manager/images/tomcat.gif HTTP/1.1" 200 2066
+::1 - - [12/Feb/2018:12:28:35 -0700] "GET /manager/images/asf-logo.svg HTTP/1.1" 200 20486
+::1 - - [12/Feb/2018:12:28:44 -0700] "GET /manager/status;jsessionid=769A7B15788BDDCA7FED9EA748311E0D?org.apache.catalina.filters.CSRF_NONCE=12E82B0E67B6B8380F7DB672833D07E6 HTTP/1.1" 200 7565
+::1 - - [12/Feb/2018:12:29:14 -0700] "GET / HTTP/1.1" 200 11230
+::1 - - [12/Feb/2018:12:29:52 -0700] "GET /manager/html HTTP/1.1" 200 18557
+::1 - - [12/Feb/2018:12:30:52 -0700] "-" 408 -
+::1 - - [12/Feb/2018:12:30:52 -0700] "-" 408 -
+::1 - - [12/Feb/2018:12:30:52 -0700] "-" 408 -
+::1 - - [12/Feb/2018:12:44:44 -0700] "GET / HTTP/1.1" 200 11230
+::1 - - [12/Feb/2018:12:44:44 -0700] "GET /tomcat.css HTTP/1.1" 200 5581
+::1 - - [12/Feb/2018:12:44:44 -0700] "GET /tomcat.png HTTP/1.1" 200 5103
+::1 - - [12/Feb/2018:12:44:44 -0700] "GET /bg-button.png HTTP/1.1" 200 713
+::1 - - [12/Feb/2018:12:44:44 -0700] "GET /bg-middle.png HTTP/1.1" 200 1918
+::1 - - [12/Feb/2018:12:44:44 -0700] "GET /bg-nav.png HTTP/1.1" 200 1401
+::1 - - [12/Feb/2018:12:44:44 -0700] "GET /bg-upper.png HTTP/1.1" 200 3103
+::1 - - [12/Feb/2018:12:44:44 -0700] "GET /asf-logo-wide.svg HTTP/1.1" 200 27235
+::1 - - [12/Feb/2018:12:44:46 -0700] "GET /manager/html HTTP/1.1" 401 2473
+::1 - - [12/Feb/2018:12:44:49 -0700] "GET /manager/images/tomcat.gif HTTP/1.1" 200 2066
+::1 - - [12/Feb/2018:12:44:49 -0700] "GET /manager/html HTTP/1.1" 200 20044
+::1 - - [12/Feb/2018:12:44:49 -0700] "GET /manager/images/asf-logo.svg HTTP/1.1" 200 20486
+::1 - - [12/Feb/2018:12:44:53 -0700] "GET /manager/status;jsessionid=3B7E048AF7FB49914DBACA840973164B?org.apache.catalina.filters.CSRF_NONCE=8CF65FB8737DCC692565B5E6F075CA9C HTTP/1.1" 200 7563
+::1 - - [12/Feb/2018:12:44:57 -0700] "GET / HTTP/1.1" 200 11230
+::1 - - [12/Feb/2018:12:45:00 -0700] "GET /manager/status HTTP/1.1" 200 7064
+::1 - - [12/Feb/2018:12:46:00 -0700] "-" 408 -
+::1 - - [12/Feb/2018:12:46:00 -0700] "-" 408 -
+::1 - - [12/Feb/2018:12:46:00 -0700] "-" 408 -
